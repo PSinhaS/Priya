@@ -5,7 +5,7 @@ public class T {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("K");
-// commit nj
+// commit nj 
 System.out.println("K");
 	}
 
